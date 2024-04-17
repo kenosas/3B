@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;700&display=swap&#39');
-
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;700&display=swap');
 
 :root {
     --cor-de-fundo: #1E1E1E;
@@ -68,7 +67,7 @@ body {
 }
 
 .abas-textos{
-    background-color: var(--texto-fundo);
+    background-image: url(img/meu\ rosto\ lindo.jpg);
     padding: 40px;
     border-radius: 0 0 40px 40px;
 }
@@ -100,13 +99,12 @@ body {
     text-align: center;
     min-width: 100px;
 }
+
 .contador-digito-numero{
     font-size: 80px;
     margin: 0;
+
 }
-
-
-
 
 .contador-digito-texto{
     color: var(--verde);
